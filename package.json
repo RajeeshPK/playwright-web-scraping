@@ -1,0 +1,27 @@
+{
+  "name": "playwright-web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeeshPK/playwright-web-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeeshPK/playwright-web-scraping/issues"
+  },
+  "homepage": "https://github.com/RajeeshPK/playwright-web-scraping#readme",
+  "dependencies": {
+    "playwright": "^1.53.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "typescript": "^5.8.3"
+  }
+}
